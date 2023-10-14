@@ -1,0 +1,7 @@
+{
+  "name": "superAdmin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
